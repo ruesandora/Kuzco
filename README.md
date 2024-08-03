@@ -8,6 +8,8 @@
 
 > Kuzco henüz public açıklanmasada tüm yatırım turlarını tamamladı.
 
+> Windows kurulumu [burada](https://kuzco.xyz/download).
+
 #
 
 > Not ve bilgilendirme:
