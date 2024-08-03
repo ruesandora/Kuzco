@@ -30,7 +30,7 @@ sudo apt update -y && sudo apt upgrade -y
 # kurulum
 curl -fsSL https://kuzco.xyz/install.sh | sh
 
-# Nodu başlatalım bilgilerimizi giriş yapıp worker'e yes diyip dashboard takibi yapalım.
+# Nodu başlatalım bilgilerimizi giriş yapıp workere yes diyip dashboard takibi yapalım.
 kuzco init
 ```
 
