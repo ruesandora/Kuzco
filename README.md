@@ -26,13 +26,18 @@ sudo apt update -y && sudo apt upgrade -y
 
 > [Buradan](https://kuzco.xyz/dashboard/overview) bi hesap oluşturalım.
 
-```
+```console
 # kurulum
 curl -fsSL https://kuzco.xyz/install.sh | sh
 
 # Nodu başlatalım bilgilerimizi giriş yapıp worker'e yes diyip dashboard takibi yapalım.
 kuzco init
 ```
+
+#
+
+<img width="1086" alt="Ekran Resmi 2024-08-03 21 32 03" src="https://github.com/user-attachments/assets/f6e439a1-4b0d-4c18-9a86-c4fa81304262">
+
 
 #
 
