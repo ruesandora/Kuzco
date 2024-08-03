@@ -2,7 +2,7 @@
 
 > Node'u donanımı yeten tüm sunuculara kullanabilirsiniz.
 
-> sunucunun 6 ram olması yeterli, minimum donanım budur.
+> sunucunun 6 ram olması yeterli, minimum donanım budur - ram yetmezse [bu](https://github.com/ruesandora/swap-space) repoya bakınız.
 
 > Mevcut sunucuların içersine yerleştirebilir maliyetsiz Kuzco Puanı kazanabilirsiniz.
 
