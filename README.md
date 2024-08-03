@@ -35,6 +35,8 @@ screen -S kuzco
 kuzco init
 ```
 
+> sol alttan mail verify etmeyı unutmayın
+
 #
 
 <img width="1086" alt="Ekran Resmi 2024-08-03 21 32 03" src="https://github.com/user-attachments/assets/f6e439a1-4b0d-4c18-9a86-c4fa81304262">
