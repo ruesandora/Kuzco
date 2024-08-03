@@ -49,7 +49,7 @@ kuzco init
 #
 
 <details>
-  <summary> <h1> Süpriz </summary> </h1>
+  <summary> <h1> Sürpriz </summary> </h1>
 
 > Bilgisi ve beyni yetmeyip sıkışınca her içeriğime hem ilk atlayıp hem de bana ve topluluğuma laf atan zırtapozlar [bu şarkı](https://www.youtube.com/watch?v=P5rSkpGr3SI) size.
 
