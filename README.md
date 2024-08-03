@@ -41,6 +41,8 @@ kuzco init
 
 #
 
+> Donanımınıza göre puan artışı olur kiminde anında yeşile döner initalize kimisinde günler sürer.
+
 <img width="1086" alt="Ekran Resmi 2024-08-03 21 32 03" src="https://github.com/user-attachments/assets/f6e439a1-4b0d-4c18-9a86-c4fa81304262">
 
 
